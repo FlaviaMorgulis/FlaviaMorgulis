@@ -1,9 +1,6 @@
 # Hi, I'm Flavia! 👋
 
-![Profile Image](https://your-image-link.com/image.png)
-
 I am currently learning **Python** and working on building my skills in **programming and development**.  
-I am passionate about solving problems, building small projects, and sharing my learning journey here on GitHub.
 
 ### 🌱 I’m currently learning
 - Python (fundamentals and projects)
