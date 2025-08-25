@@ -1,5 +1,5 @@
 
-# Hi, I'm Flavia! 👋
+
 
 ![Profile Image](github-header-banner.png)
 
