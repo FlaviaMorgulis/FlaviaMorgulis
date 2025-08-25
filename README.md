@@ -1,5 +1,7 @@
+
 # Hi, I'm Flavia! 👋
 
+![Profile Image](github-header-banner.png)
 
 I am currently learning **Python** and working on building my skills in **programming and development**.  
 
