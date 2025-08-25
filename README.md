@@ -1,35 +1,23 @@
-# DEMO 
-Demo repository
+# Hi, I'm Flavia! 👋
 
-Hello, this is my semo readme file
+![Profile Image](https://your-image-link.com/image.png)
+
+I am currently learning **Python** and working on building my skills in **programming and development**.  
+I am passionate about solving problems, building small projects, and sharing my learning journey here on GitHub.
+
+### 🌱 I’m currently learning
+- Python (fundamentals and projects)
+- Data structures & algorithms
+- Basic web development
+
+### 💻 My goals
+- Build a strong portfolio of projects
+- Improve coding and problem-solving skills
+- Learn web development basics
+- Eventually contribute to open-source projects
+- Start a new career as a developer 
+
+### 📫 Contact me
+- [LinkedIn] https://www.linkedin.com/in/flavia-morgulis-418579221/.
 
 
-# Python
-## fundamentals
-### variables
-### loops
-### conditions
-
-- List
-- List
-- List
-  
-  - https://www.w3schools.com/python/python_booleans.asp
-  - https://www.w3schools.com/python/python_booleans.asp
-    - https://www.w3schools.com/python/python_booleans.asp
-
-# Python Week 2
-<!--
-**FlaviaMorgulis/FlaviaMorgulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
