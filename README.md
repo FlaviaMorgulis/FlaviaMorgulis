@@ -3,7 +3,7 @@
 
 ![Profile Image](github-header-banner.png)
 
-I am currently learning **Python** and working on building my skills in **programming and development**.  
+I am currently working on building my skills in **programming and development**.  
 
 ### 🌱 I’m currently learning
 - Python (fundamentals and projects)
