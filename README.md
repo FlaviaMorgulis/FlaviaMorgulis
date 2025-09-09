@@ -8,7 +8,9 @@ I am currently working on building my skills in **programming and development**.
 ### 🌱 I’m currently learning
 - Python (fundamentals and projects)
 - Data structures & algorithms
-- Basic web development
+- HTML
+- CSS
+- JavaScript
 
 ### 💻 My goals
 - Build a strong portfolio of projects
