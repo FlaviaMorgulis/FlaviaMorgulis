@@ -1,7 +1,7 @@
 
 
 
-![Profile Image](github-header-banner.png)
+![Profile Image](Hello, I’m Flavia!.png)
 
 I am currently working on building my skills in **programming and development**.  
 
