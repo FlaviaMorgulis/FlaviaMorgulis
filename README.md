@@ -1,7 +1,7 @@
 
 
 
-![Profile Image](Flavia.png)
+![Profile Image](Flaviapic.png)
 
 I am currently working on building my skills in **programming and development**.  
 
