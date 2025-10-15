@@ -12,7 +12,9 @@ I am currently working on building my skills in **programming and development**.
 - CSS
 - JavaScript
 
-I am currently working on building a portfolio Website
+I am currently working on building a portfolio Website:
+
+#### IN PROGRESS: https://flaviamorgulis.github.io/PortfolioWebsite/
 
 
 ### 📫 Contact me
