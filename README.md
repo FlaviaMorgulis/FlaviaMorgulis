@@ -3,7 +3,7 @@
 
 ![Profile Image](Flaviapic.png)
 
-I am currently working on building my skills in **programming and development**.  
+I am currently working on building my skills in **software engineering**.  
 
 ### 🌱 Languages
 - Python 
