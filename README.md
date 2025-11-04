@@ -12,7 +12,7 @@ I am currently working on building my skills in **software engineering**.
 - CSS
 - JavaScript
 
-I am currently working on building a portfolio Website:
+I am currently building a portfolio website and collaborating with a team to develop an expense tracker:
 
 #### IN PROGRESS: https://flaviamorgulis.github.io/PortfolioWebsite/
 
