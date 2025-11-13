@@ -12,8 +12,9 @@ I am currently working on building my skills in **software engineering**.
 - CSS
 - JavaScript
 
-I am currently building a portfolio website and collaborating with a team to develop an expense tracker:
+I am working in two projects now : building a portfolio website and collaborating with a team to develop an expenses tracker with flask:
 
+Check my repo!!
 #### IN PROGRESS: https://flaviamorgulis.github.io/PortfolioWebsite/
 
 
