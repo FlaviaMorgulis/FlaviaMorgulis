@@ -3,22 +3,26 @@
 
 ![Profile Image](Flaviapic.png)
 
-I am currently working on building my skills in **software engineering**.  
+#### I am currently developing my skills in software engineering, with a focus on building practical projects and collaborating in agile environments.
 
-### 🌱 Languages
-- Python 
-- SQL
-- HTML
-- CSS
-- JavaScript
+### 🌱 Languages & Technologies
 
-I am working in two projects now : building a portfolio website and collaborating with a team to develop an expenses tracker with flask:
+Python | SQL | HTML | CSS | JavaScript
 
-Check my repo!!
+### 🔨 Projects in Progress
+
+Portfolio Website – Showcasing projects and skills.
+
+Expenses Tracker – Team project built with Flask, incorporating Git for agile workflow.
+
+### 📫 Contact
+
+- [LinkedIn] https://www.linkedin.com/in/flavia-morgulis-418579221/.
+
+Check my repo and projects!!
+
 #### IN PROGRESS: https://flaviamorgulis.github.io/PortfolioWebsite/
 
 
-### 📫 Contact me
-- [LinkedIn] https://www.linkedin.com/in/flavia-morgulis-418579221/.
 
 
