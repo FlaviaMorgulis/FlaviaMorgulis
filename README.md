@@ -11,6 +11,8 @@ Python | SQL | HTML | CSS | JavaScript
 
 ### 🔨 Projects in Progress
 
+New Portfolio Website with bot - built with Flask  
+
 Portfolio Website – Showcasing projects and skills.
 
 Expenses Tracker – Team project built with Flask, incorporating Git for agile workflow.
