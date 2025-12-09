@@ -23,7 +23,6 @@ Expenses Tracker – Team project built with Flask, incorporating Git for agile 
 
 Check my repo and projects!!
 
-#### IN PROGRESS: https://flaviamorgulis.github.io/PortfolioWebsite/
 
 
 
