@@ -13,7 +13,7 @@ Python | SQL | HTML | CSS | JavaScript
 
 linux-devops-python-platform
 
-New Portfolio Website with bot - built with Flask  https://flaviamorgulisportfolio.onrender.com/
+New Portfolio Website with bot - built with Flask 
 
 Expenses Tracker – Team project built with Flask and SQL alchemy
 
